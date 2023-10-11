@@ -8,3 +8,4 @@
     3. [First component](./lessons/1.Introduction/3.First-component.md)
     4. [Events](./lessons/1.Introduction/4.Events.md)
     5. [First hook](./lessons/1.Introduction/5.First-hook.md)
+    6. [Touch point](./lessons/1.Introduction/6.Touch-point.md)
